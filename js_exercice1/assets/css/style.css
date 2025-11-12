@@ -1,0 +1,15 @@
+.txtGras {
+    font-weight: bold;
+}
+
+.largeur {
+    max-width: 75%;
+}
+
+.fondJaune {
+    background-color: yellow;
+}
+
+.fondAqua {
+    background-color: aqua;
+}
