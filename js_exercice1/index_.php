@@ -6,8 +6,9 @@
           integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <!--<script src="./assets/js/fonction1.js" defer language="javascript"></script>!-->
     <!--script src="./assets/js/fonction2_attribut.js" defer language="javascript"></script>
-    <script src="./assets/js/fonction_array.js" defer language="javascript"></script>!-->
-    <script src="./assets/js/fonction_events.js" defer language="javascript"></script>
+    <script src="./assets/js/fonction_array.js" defer language="javascript"></script>
+    <script src="./assets/js/fonction_events.js" defer language="javascript"></script>!-->
+    <script src="./assets/js/asynchrone.js" defer language="javascript"></script>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
