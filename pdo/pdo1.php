@@ -1,7 +1,7 @@
 <?php
 include('./pg_connect.php');
 try {
-    $query = 'insert into pays (id_pays,nom_pays, iso_code) values (3,:nom_pays, :iso_code)';
+    $query = 'insert into pays (nom_pays, iso_code) values (:nom_pays, :iso_code)';
     $stmt = $cnx->prepare($query);
     $stmt->bindValue(':nom_pays', 'Allemagne');
     $stmt->bindValue(':iso_code', 'DE');
